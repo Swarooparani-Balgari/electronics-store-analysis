@@ -40,4 +40,4 @@ The dataset contains product-level sales information including:
 - queries.sql — SQL analysis queries
 - analysis.py — Python analysis and visualization
 - Dashboard.pbix — Power BI dashboard
-- ![Dashboard:Screenshot.png]
+- ![Dashboard](Screenshot.png)
